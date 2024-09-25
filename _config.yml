@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mike's words # the website title (if blank, full name will be used instead)
-first_name: Michael
-last_name: Ryan
-email: mehmenmike@gmail.com
+title: Jacobs Musings # the website title (if blank, full name will be used instead)
+first_name: Jacob
+last_name: Straw
+email: jacobjstraw@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  An eventually-cessant rambling.
+  A space for my hopefully coherent thoughts.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Source available <a href="https://github.com/michael-ryan/michael-ryan.github.io">on Github</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Source available <a href="https://github.com/jacob-straw/Jacob-Straw.github.io">on Github</a>.
 keywords: jekyll, jekyll-theme # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/) // TODO
 
-url: https://michael-ryan.github.io # the base hostname & protocol for your site
+url: https://Jacob-Straw.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -76,7 +76,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: michael-ryan # your GitHub user name
+github_username: jacob-straw # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
