@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://michael-ryan.github.io/sitemap.xml
+Sitemap: https://Jacob-Straw.github.io/sitemap.xml
