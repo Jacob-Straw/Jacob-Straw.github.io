@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: An eventually-cessant rambling.
+subtitle: A space for my hopefully coherent thoughts.
 
 profile:
   align: right
