@@ -20,8 +20,6 @@ Back to the solution. Now from my perspective the key for a junior engineer is t
 
 
 ## What I plan on doing
-Draft: I've found AI has helped me get to a minimum required knowledge for my current work while using it in a way that explains everything, but after that I should pull back and do it the hard way
-
 So after using AI a reasonable amount to learn how best to use it in a professional setting I have decided to pull back my usage and focus much more on becoming a good engineer at this stage in my career. There will be a renewed focus of the architecture that goes into my code and especially on the implementation phase, even more so with unfamiliar languages. I have that AI has allowed me to gain the required knowledge to 'do the job' in new areas for me, first in platform engineering and then later in compilers and I attribute this to always having it explain what it's doing, justifying decisions and explaining unfamilar cocnepts to me but after getting to this minimum level I now feel its important to pull back and learn the hard way, from first principles, to become an expert and once that level has been achieved AI will once again become exceptionally useful.
 ---
 
